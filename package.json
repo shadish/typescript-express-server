@@ -1,0 +1,24 @@
+{
+  "name": "typescript-express-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadish/typescript-express-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadish/typescript-express-server/issues"
+  },
+  "homepage": "https://github.com/shadish/typescript-express-server#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.118",
+    "ts-loader": "^5.3.0",
+    "typescript": "^3.1.6"
+  }
+}
