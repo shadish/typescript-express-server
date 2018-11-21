@@ -3,6 +3,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 
 module.exports = {
   entry: './src/index.ts',
+  target: 'node',
   devtool: 'inline-source-map',
   devServer: {
     contentBase: './dist'
